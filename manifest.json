@@ -1,0 +1,100 @@
+{
+  "product": "superhuman-life-os",
+  "version": "0.1.0-beta.1",
+  "locale": "en-US",
+  "release_date": "2026-09-27",
+  "channel": "invited-beta",
+  "format": "portable-product-and-build-instructions",
+  "entrypoint": "START-HERE.md",
+  "overview": "README.md",
+  "single_file": "superhuman-life-os.md",
+  "schema_version": 1,
+  "runtime_initialized": false,
+  "runtime_acceptance_executed": false,
+  "platform_compatibility_verified": [],
+  "real_user_outcomes_verified": false,
+  "external_required_files": [],
+  "includes_personal_runtime_data": false,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3459,
+      "sha256": "6ad4ec6dc76fc1cbaff46d8de5a79ec1ee2507d0c1abe1f005c873ed57f9f23f"
+    },
+    {
+      "path": "START-HERE.md",
+      "bytes": 2988,
+      "sha256": "4a2c019f03e4189b143cfe525a02278489333c9852a9734a3be9bfa68881890a"
+    },
+    {
+      "path": "BETA-NOTES.md",
+      "bytes": 3172,
+      "sha256": "95f031ced0c2a00d100c21f7de3f4c65ed68850383611205c26a2a4b8d657448"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 1224,
+      "sha256": "caf51d05477308ac60dbd9fbf75f1e6d556c0b0ede981599b9c46e1aa1ed650e"
+    },
+    {
+      "path": "core/01-REQUIREMENTS.md",
+      "bytes": 14500,
+      "sha256": "afc35c415904c61712f5325871799e354043ddba36666b054ac690577f87b913"
+    },
+    {
+      "path": "core/02-BUILD-WORKFLOW.md",
+      "bytes": 10692,
+      "sha256": "a324ed269842078b22cea524c6eb5e519bf8267b18e6cce10d74f8185b10c0f7"
+    },
+    {
+      "path": "core/03-OPERATING-RULES.md",
+      "bytes": 13594,
+      "sha256": "39d749b5ab513d721a2426e21bd249745958624b02b941ea26f4c6425a198e67"
+    },
+    {
+      "path": "core/04-ONBOARDING.md",
+      "bytes": 7084,
+      "sha256": "78c1ea18c809f6b07b369d43757c535aae40cce27058aabd0158dca67bfbac06"
+    },
+    {
+      "path": "core/05-STORAGE-AND-TEMPLATES.md",
+      "bytes": 13005,
+      "sha256": "95ad5fbacb2d971c53ad0cc803138e29cce3a823827cd1e81e724af8157fddbd"
+    },
+    {
+      "path": "core/06-ACCEPTANCE-CHECKLIST.md",
+      "bytes": 10660,
+      "sha256": "88aaa7d901f751b38176756f1a62f4e4962e7c2cdcfa577a98a3843df67f0d4b"
+    },
+    {
+      "path": "core/07-USER-GUIDE.md",
+      "bytes": 2531,
+      "sha256": "bf19ae76a51b48d3ff46621046c037a24c12e03329b34aa47ba54dc481d4e172"
+    },
+    {
+      "path": "product/PRODUCT-BRIEF.md",
+      "bytes": 4836,
+      "sha256": "e41890ab0f7e7f01704410cd5594cd570d3750a03e152be3868201aeed76d546"
+    },
+    {
+      "path": "product/PILOT-GUIDE.md",
+      "bytes": 3770,
+      "sha256": "10c5dfb4a89a3bdd4b748786d7fd4f957c7097e675bf4a0644528abe846a1453"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1060,
+      "sha256": "6bd111bf9132e4191b1089f94ff4f41cd40124e052cb48df31a1716963485234"
+    },
+    {
+      "path": "superhuman-life-os.md",
+      "bytes": 95561,
+      "sha256": "9f8401b8ab104e3b36f02663a23826c82d0c16bded717bd6ee85612719b3457a"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 69,
+      "sha256": "78369dd39b9c9ebe9dfe5b6ccc6d8500071d3b9562ee56d991f7045189173e17"
+    }
+  ]
+}
